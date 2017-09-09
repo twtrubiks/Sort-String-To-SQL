@@ -12,7 +12,7 @@ Sort String To SQL For Python 📝
 
 ## 範例
 
-可參考  [sort_string_to_sql.py]()
+可參考  [sort_string_to_sql.py](https://github.com/twtrubiks/Sort-String-To-SQL/blob/master/sort_string_to_sql.py)
 
 ```python
 print('+id ->', sort_str_to_sql(sort_expression='+id'))
@@ -25,11 +25,11 @@ print(' ->', sort_str_to_sql(sort_expression=''))
 ##   ->
 ```
 
-更多範例可參考 [tests.py]()
+更多範例可參考 [tests.py](https://github.com/twtrubiks/Sort-String-To-SQL/blob/master/tests.py)
 
 ## Test By Case
 
-目前是 by case 寫測試，可參考 [tests.py]()
+目前是 by case 寫測試，可參考 [tests.py](https://github.com/twtrubiks/Sort-String-To-SQL/blob/master/tests.py)
 
 請在命令提示字元  ( cmd ) 底下輸入
 
