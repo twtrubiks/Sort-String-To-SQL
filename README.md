@@ -4,6 +4,8 @@ Sort String To SQL For Python 📝
 
 參考 [sortStringToSql](https://github.com/killercup/sortStringToSql) 修改為 Python 版本
 
+* [Youtube Tutorial](https://youtu.be/J8tDVPFiRmk)
+
 ## 說明
 
 將 'sort expressions' 轉換成 SQL expressions，方便資料庫 ORDER BY 欄位， E.g.  `+id` 會被轉換為 `id ASC`，
